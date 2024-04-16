@@ -1,6 +1,6 @@
 # Proverb-NLP-Diffusion
 ## Overview
-The Proverb NLP Generator is a Python application that utilizes natural language processing (NLP) techniques to analyze, generate, and process proverbs. It incorporates lexical and syntactic analysis, speech recognition, story generation, and image generation functionalities.
+The Proverb NLP Generator is a Python application that utilizes natural language processing (NLP) techniques to analyze and process proverbs. It incorporates lexical and syntactic analysis, speech recognition, story generation, and image generation functionalities.
 The image generator is a stable diffusion model, you can find it [here](https://github.com/runwayml/stable-diffusion).
 
 ## Features
